@@ -1,0 +1,4 @@
+- 👋 hey, i’m @ii-richie
+- 🍁 software developer by day, streamer by night
+- 📍 Ohio, US
+- 📫 richieddc@outlook.com
