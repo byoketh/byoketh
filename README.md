@@ -1,5 +1,5 @@
 - 👋 hey, i’m @ii-richie
 - 🍁 software developer by day, twitch streamer by night
-- 📺 [twitch.tv/ii_richie](url)
+- 📺 [twitch.tv/ii_richie](URL)
 - 📍 Ohio, US
 - 📫 richieddc@outlook.com
