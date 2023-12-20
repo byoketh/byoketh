@@ -1,4 +1,4 @@
 - 👋 hey, i’m @ii-richie
-- 🍁 aspiring software developer
+- 🍁 aspiring developer
 - 📍 Ohio, US
 - 📫 richieddc@outlook.com
