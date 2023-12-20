@@ -1,4 +1,4 @@
-- 👋 hey, i’m @ii-richie
+- 👋 hey! i’m @byoketh, you can call me Richie!!
 - 🍁 aspiring developer
 - 📍 Ohio, US
 - 📫 richieddc@outlook.com
